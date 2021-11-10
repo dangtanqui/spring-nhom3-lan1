@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<danhSachLop>
+    <lop>
+        <maLop>DTL16A</maLop>
+        <tenLop>Liên thông 16 A</tenLop>
+        <danhSachSinhVien>
+            <sinhVien>
+                <masv>16DTLA01</masv>
+                <hoTen>Lê Anh</hoTen>
+                <ngaySinh>1990-06-05</ngaySinh>
+                <gioiTinh>nam</gioiTinh>
+                <diemtb>8.2</diemtb>
+            </sinhVien>
+            <sinhVien>
+                <masv>16DTLA02</masv>
+                <hoTen>Lý Bình</hoTen>
+                <ngaySinh>1990-02-07</ngaySinh>
+                <gioiTinh>nam</gioiTinh>
+                <diemtb>5.6</diemtb>
+            </sinhVien>
+            <sinhVien>
+                <masv>16DTLA03</masv>
+                <hoTen>Đỗ Mỹ Chi</hoTen>
+                <ngaySinh>1985-02-02</ngaySinh>
+                <gioiTinh>nữ</gioiTinh>
+                <diemtb>6.3</diemtb>
+            </sinhVien>
+            <sinhVien>
+                <masv>16DTLA04</masv>
+                <hoTen>Trần Dũng</hoTen>
+                <ngaySinh>1986-12-03</ngaySinh>
+                <gioiTinh>nam</gioiTinh>
+                <diemtb>8.4</diemtb>
+            </sinhVien>
+        </danhSachSinhVien>
+    </lop>
+    <lop>
+        <maLop>DTL16B</maLop>
+        <tenLop>Liên thông 16 B</tenLop>
+        <danhSachSinhVien>
+            <sinhVien>
+                <masv>16DTLB01</masv>
+                <hoTen>Lý Thị Hồng</hoTen>
+                <ngaySinh>1990-05-24</ngaySinh>
+                <gioiTinh>nữ</gioiTinh>
+                <diemtb>6.7</diemtb>
+            </sinhVien>
+            <sinhVien>
+                <masv>16DTLB02</masv>
+                <hoTen>Trần Mỹ Hương Lệ</hoTen>
+                <ngaySinh>1990-08-05</ngaySinh>
+                <gioiTinh>nam</gioiTinh>
+                <diemtb>6.4</diemtb>
+            </sinhVien>
+            <sinhVien>
+                <masv>16DTLB04</masv>
+                <hoTen>Đinh Quý</hoTen>
+                <ngaySinh>1987-10-12</ngaySinh>
+                <gioiTinh>nam</gioiTinh>
+                <diemtb>7.5</diemtb>
+            </sinhVien>
+            <sinhVien>
+                <masv>16DTLA05</masv>
+                <hoTen>Hồ Văn Khá</hoTen>
+                <ngaySinh>1985-02-02</ngaySinh>
+                <gioiTinh>nữ</gioiTinh>
+                <diemtb>6.3</diemtb>
+            </sinhVien>
+        </danhSachSinhVien>
+    </lop>
+</danhSachLop>
